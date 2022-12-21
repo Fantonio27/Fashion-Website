@@ -1,0 +1,420 @@
+       <style type="text/css">
+          .bgcolor{background-color: #111315;}
+          .bgcolor2{background-color: #eff1f3;}
+          .bgcolor3{background-color: #e1e5ee;}
+           .bgcolor4{background-color: white;}
+
+          .logo{
+              font-family: 'Playfair Display', serif;
+              font-weight: 500;
+              font-size: 30px;
+              color: #ffffff;
+          }
+          .nav-link{
+              font-weight: 570;
+              color: #ffffff!important;
+              font-family: 'Playfair Display', serif;
+              font-size: 20px;
+          }
+          .nav-link:hover{
+              color: red!important;
+          }
+          .active{
+              color: red !important;
+          }
+          .footertext1{
+              color: white;
+              font-size: 20px;
+              font-family: 'Source Sans Pro', sans-serif;
+          }
+          .footertext1B{
+              color: white;
+              font-size: 17px;
+              font-family: 'Source Sans Pro', sans-serif;
+          }
+          .footertext1C{
+              color: #ADB5BD;
+              font-size: 14px;
+              font-family: 'Source Sans Pro', sans-serif;
+          }
+          .footertext2{
+              color: white;
+              margin-top: 20px;
+              font-size: 20px;
+              font-family: 'Source Sans Pro', sans-serif;
+          }
+          .footertext3{
+              color: white;
+              margin-top: 20px;
+              font-size: 20px;
+              font-family: 'Source Sans Pro', sans-serif;
+          }
+          .reference{
+              color: white;
+              font-size: 20px;
+              font-family: 'Source Sans Pro', sans-serif;
+              text-decoration: none;
+          }
+          .reference:hover{
+              color: white!important;
+              transition: ease 0.3s;
+              text-shadow: 1px 1px 5px #ffffff;
+          }
+          .Creference{
+          	color: #343A40;
+              font-family: 'Merriweather', serif;
+              font-size: max(1vw,20px);
+              margin: 20px;
+              margin-top: 150px;
+              position: relative;
+              z-index: 100;
+              width: 95%;
+              padding: 0px 30px 0px 30px;
+              background-color: ;
+              text-align: justify;
+
+          }
+
+          .Creference1{
+              width: 100%;
+              background-color: ;
+              margin: 20px 0px 20px 0px;
+          }
+
+          .Creference2{
+              font-family: 'Merriweather', serif;
+              font-size: max(2vw,40px);
+              margin-top: 10px;
+              width: 90%;
+              text-align: center;
+              background-color: ;
+               margin: 100px 0px 80px 0px;
+               border-bottom: 3px solid #CED4DA;
+               padding-bottom: 30px;
+          }
+
+          .Creference3{
+              width: 95%;
+              background-color: ;
+              padding: 0px;
+               margin: 20px 0px 0px 23px ;
+          }
+
+          .Creference4{
+             font-family: 'Merriweather', serif;
+              font-size: 17px;
+              width: 100%;
+              text-align: justify;
+              padding: 0px 30px 30px 30px;
+              background-color: ;
+               margin: 20px 0px 0px 10px ;
+          }
+
+          .Creference5{
+             font-family: 'Merriweather', serif;
+              font-size: 17px;
+              text-align: justify;
+            background-color: #F8F9FA;
+            padding: 0px 30px 30px 30px;
+            border-radius: 10px;
+             margin: 70px 0px 70px 0px ;
+          }
+
+           .Creference6{
+            font-family: 'Merriweather', serif;
+              font-size: 17px;
+            background-color: ;
+            text-align: center;
+            border-radius: 10px;
+             margin: 70px 0px 70px 0px ;
+             padding: 0px;
+          }
+
+          .Creferencecontent{
+              color:grey;
+              font-family: 'Merriweather', serif;
+              font-size: 15px;
+              margin: 20px;
+          }
+          .Creferencecontent2{
+              color:white;
+              font-family: 'Merriweather', serif;
+              font-size: 15px;
+              margin: 20px;
+          }
+
+          .p1{
+              font-family: 'Merriweather', serif;
+              font-size: max(2vw,30px);
+              margin-top: 10px;
+              z-index: 100;
+              color: #E5383B;
+          }
+
+          .p2{
+             font-family: 'Merriweather', serif;
+              font-size: max(1vw,20px);
+              margin-top: 20px;
+              border-bottom: 2px solid white;
+          }
+
+          .p21{
+              font-family: 'Merriweather', serif;
+              font-size:24px;
+              margin-top: 10px;
+              color: #E5383B;
+              text-align: left;
+          }
+
+          .pic1{
+            width: 100%;
+            height: 300px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            object-fit: contain;
+          }
+
+
+        .hpic{
+        	height: 550px;
+        	max-width: 100%;
+			object-fit: cover;
+        	object-position: center;
+        }
+
+        .hr1{
+        	border-top: 3px solid red;
+        	width: 80%;
+        	position: absolute;
+        }
+
+        .pic2{
+        	object-fit: contain;
+        	height: 800px;
+        	width: 420px;
+            margin-top: 0px;
+        }
+
+        .body1{
+        	width: 92%;
+        	padding: 100px 0px 0px 0px;
+        	height: 500px;
+        	background-color: ;
+        }
+
+        .pic5, .pic6, .pic7, .pic8{
+        	height: 350px;
+        	width: 300px;
+        	float: left;
+        	margin:0px 6px 6px 0px;
+        	padding-right: 50px;
+        	background-image: url("pic/pic5 (2).jpg");
+        	background-position: center;
+        	background-size: cover;  
+        	transition: 0.5s; 
+        	text-align: justify;
+        }
+
+        .pic5:hover .transparent1{
+			transform: scale(1.0);
+        	opacity: 0.35;
+        }
+
+        .pic6:hover .transparent1{
+			transform: scale(1.0);
+        	opacity: 0.35;
+        }
+
+
+        .pic7:hover .transparent1{
+			transform: scale(1.0);
+        	opacity: 0.35;
+        }
+
+
+        .pic8:hover .transparent1{
+			transform: scale(1.0);
+        	opacity: 0.35;
+        }
+
+        .pic5:hover{
+        	transform: scale(1.02);
+        }
+
+        .pic6:hover{
+        	transform: scale(1.02);
+        }
+
+        .pic7:hover{
+        	transform: scale(1.02);
+        }
+
+        .pic8:hover{
+        	transform: scale(1.02);
+        }
+
+        .pic6{
+        	background-image: url("pic/pic6.jpg");
+        	background-position: center;
+        	background-size: cover;  
+        }
+
+        .pic7{
+        	background-image: url("pic/pic7.jpg");
+        	background-position: center;
+        	background-size: cover;
+        }
+
+        .pic8{
+        	background-image: url("pic/pic8.jpg");
+        	background-position: top;
+        	background-size: cover;
+        	margin-right: 0px;
+        }
+
+        .p3{
+        	position: relative;
+        	font-size: max(1vw,30px);
+        	color: white;
+        	opacity: 0;
+        	z-index: 100;
+        	margin: 50px 0px 0px 30px;
+        	font-family: Arial;
+        	transition: 0.5s;
+        }
+
+        .p4{
+        	position: relative;
+        	font-size: max(1vw,20px);
+        	color: white;
+        	opacity: 0;
+        	z-index: 200;
+        	margin: 10px 0px 0px 30px;
+        	font-family: Arial;
+        	transition: 0.5s;
+        }
+
+        .p5{
+        	position: relative;
+        	font-size: 18px;
+        	color: white;
+        	opacity: 0;
+        	z-index: 200;
+        	width: 150px;
+        	padding: 5px 10px 5px 10px ;
+        	background-color: #ef233c;
+        	margin: 20px 0px 0px 30px;
+        	font-family: Arial;
+        	transition: 0.1s;
+        	text-align: center;
+        	border-radius: 5px;
+        	cursor: pointer;
+        }
+
+
+        .pic5:hover .p3{
+        	opacity: 1;
+        }
+
+        .pic5:hover .p4{
+        	opacity: 1;
+        }
+
+        .pic5:hover .p5{
+        	opacity: 1;
+        }
+
+        .pic6:hover .p3{
+        	opacity: 1;
+        }
+
+        .pic6:hover .p4{
+        	opacity: 1;
+        }
+
+        .pic6:hover .p5{
+        	opacity: 1;
+        }
+
+        .pic7:hover .p3{
+        	opacity: 1;
+        }
+
+        .pic7:hover .p4{
+        	opacity: 1;
+        }
+
+        .pic7:hover .p5{
+        	opacity: 1;
+        }
+
+
+        .pic8:hover .p3{
+        	opacity: 1;
+        }
+
+        .pic8:hover .p4{
+        	opacity: 1;
+        }
+
+        .pic8:hover .p5{
+        	opacity: 1;
+        }
+
+         .transparent1{
+        	width: 420px;
+        	height: 350px;
+        	background-color: black;
+        	position: absolute;
+        	opacity: 0;
+        	transition: 0.5s;
+        }
+
+        .pic21{
+        	width: 100%;
+        	height: 500px;
+        	margin: 0px;
+        	object-fit: contain;
+        	object-position: bottom;
+        }
+
+        .pic22{
+        	width: 100%;
+        	height: auto;
+        	margin: 0px;
+        	object-fit: cover;
+        	object-position: bottom;
+        }
+
+        a{
+        	text-decoration: none;
+        }
+        .bg1{
+            background-image: url("Imgs/fashion2.png");
+            background-size: cover;
+            background-position: center;
+            height: 600px;
+            padding: 0px;
+          }
+          .Creference9{
+            color:white;
+            font-family: 'Libre Bodoni', serif;
+            font-size: max(3vw,20px);
+            margin: 20px;
+            margin-top: 250px;
+            position: relative;
+            z-index: 100;
+            width: 95%;
+            padding: 0px 30px 0px 30px;
+        }
+        .p12{
+            color:white;
+             font-family: 'Merriweather', serif;
+             font-size: max(1vw,20px);
+             margin-top: 10px;
+             z-index: 100;
+         }
+         .carousel-item img {
+            width:640px;
+         }
+        </style>

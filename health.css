@@ -1,0 +1,196 @@
+<style type="text/css">
+          .bgcolor{background-color: #111315;}
+          .bgcolor2{background-color: #F8F9FA;}
+          .bgcolor3{background-color: #e1e5ee;}
+           .bgcolor4{background-color: white;}
+
+          .logo{
+              font-family: 'Playfair Display', serif;
+              font-weight: 500;
+              font-size: 30px;
+              color: #ffffff;
+          }
+          .nav-link{
+              font-weight: 570;
+              color: #ffffff!important;
+              font-family: 'Playfair Display', serif;
+              font-size: 20px;
+          }
+          .nav-link:hover{
+              color: red!important;
+          }
+          .active{
+              color: red !important;
+          }
+          .footertext1{
+              color: white;
+              font-size: 20px;
+              font-family: 'Source Sans Pro', sans-serif;
+          }
+          .footertext1B{
+              color: white;
+              font-size: 17px;
+              font-family: 'Source Sans Pro', sans-serif;
+          }
+          .footertext1C{
+              color: #ADB5BD;
+              font-size: 14px;
+              font-family: 'Source Sans Pro', sans-serif;
+          }
+          .footertext2{
+              color: white;
+              margin-top: 20px;
+              font-size: 20px;
+              font-family: 'Source Sans Pro', sans-serif;
+          }
+          .footertext3{
+              color: white;
+              margin-top: 20px;
+              font-size: 20px;
+              font-family: 'Source Sans Pro', sans-serif;
+          }
+          .reference{
+              color: white;
+              font-size: 20px;
+              font-family: 'Source Sans Pro', sans-serif;
+              text-decoration: none;
+          }
+          .reference:hover{
+              color: rgb(255, 0, 0)!important;
+              transition: ease 0.3s;
+          }
+          .Creference{
+              color:white;
+              font-family: 'Libre Bodoni', serif;
+              font-size: max(3vw,20px);
+              margin: 20px;
+              margin-top: 250px;
+              position: relative;
+              z-index: 100;
+              width: 95%;
+              padding: 0px 30px 0px 30px;
+
+          }
+
+          .Creference1{
+              font-family: 'Merriweather', serif;
+              font-size: max(2vw,30px);
+              margin: 0px;
+              margin-top: 80px;
+              z-index: 100;
+               width: 100%;
+              text-align: center;
+              padding: 0px 30px 0px 30px;
+              margin: 70px 0px 30px 0px;
+          }
+
+          .Creference2{
+              font-family: 'Merriweather', serif;
+              font-size: max(1vw,18px);
+              margin-top: 10px;
+              z-index: 100;
+              width: 90%;
+              text-align: justify;
+              padding: 0px 30px 40px 30px;
+              background-color: ;
+               margin: 30px;
+          }
+
+          .Creference3{
+             font-family: 'Merriweather', serif;
+              font-size: max(1vw,18px);
+              width: 90%;
+              text-align: justify;
+              padding: 0px 30px 30px 30px;
+              background-color: ;
+               margin: 50px 0px 0px 0px ;
+          }
+
+          .Creference4, .Creference5{
+             font-family: 'Merriweather', serif;
+              font-size: max(1vw,18px);
+              width: 90%;
+              text-align: justify;
+              padding: 30px 30px 30px 30px;
+              background-color: ;
+               margin: 30px 0px 0px 0px ;
+          }
+
+          .Creference5{
+            background-color: #F8F9FA;
+            border-radius: 10px;
+             margin: 70px 0px 70px 0px ;
+          }
+
+          .Creferencecontent{
+              color:grey;
+              font-family: 'Merriweather', serif;
+              font-size: 15px;
+              margin: 20px;
+          }
+          .Creferencecontent2{
+              color:white;
+              font-family: 'Merriweather', serif;
+              font-size: 15px;
+              margin: 20px;
+          }
+
+          .bg1{
+            background-image: url("Imgs/fashion3.png");
+            background-size: cover;
+            background-position: center;
+            height: 600px;
+            padding: 0px;
+          }
+
+          .trans{
+            width:100%;
+            height: 600px;
+            background-color: black;
+            opacity: 0.4;
+            position: absolute;
+          }
+
+          .p1{
+             color:white;
+              font-family: 'Merriweather', serif;
+              font-size: max(1vw,20px);
+              margin-top: 10px;
+              z-index: 100;
+          }
+
+          .col-lg-2{
+            background-color: ;
+          }
+
+          .bg2{
+            background-image: url("Imgs/whattoeat.png");
+            background-size: cover;
+            height: 400px;
+          }
+
+          .p2{
+             font-family: 'Merriweather', serif;
+              font-size: max(1vw,30px);
+              margin-top: 20px;
+              width: 190px;
+              border-bottom: 2px solid white;
+          }
+
+           .bg3{
+            background-image: url("pic/b1.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            height: 500px;
+            background-color: white;
+          }
+
+          .pic1{
+            width: 100%;
+            height: 300px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            object-fit: contain;
+          }
+          </style>

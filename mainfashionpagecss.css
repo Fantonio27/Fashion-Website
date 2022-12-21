@@ -1,0 +1,100 @@
+.logo{
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    font-size: 30px;
+}
+.nav-link{
+    font-weight: 570;
+    color: white!important;
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+}
+.nav-link:hover{
+    color: red!important;
+}
+.active{
+    color: red !important;
+}
+/*Nav bar*/
+
+.carousel-item img {
+    width:640px;
+    height:90%;
+    object-fit: cover;
+    object-position: center;
+  }
+.labelcarousel{
+    font-size: 40px;
+    font-family: 'Libre Bodoni', serif;
+}
+.labelcarousel2{
+    font-size: 20px;
+    margin-bottom: 250px;
+    font-family: 'Merriweather', serif;
+}
+/*CAROUSEL*/
+
+.page1pic{
+    height: 320px;
+}
+.card:hover{
+    transition: ease 0.3s;
+    box-shadow: 1px 1px 5px #ffffff;
+}
+.mainpagetitle1{
+    color:rgb(255, 255, 255);
+    font-family: 'Playfair Display', serif;
+    font-size: 35px;
+    text-align: center;
+    margin: 20px;
+}
+.mainpagedesc1{
+    color: gray;
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+    margin: 20px;
+    text-align: center;
+}
+.pictures{
+    max-width: 400px;
+    margin: 20px;
+}
+
+/*footertext*/
+.footertext1{
+    color: white;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext1B{
+    color: white;
+    font-size: 17px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext1C{
+    color: #ADB5BD;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext2{
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext3{
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.reference{
+    color: white;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-decoration: none;
+}
+.reference:hover{
+    color: rgb(255, 0, 0)!important;
+    transition: ease 0.3s;
+}

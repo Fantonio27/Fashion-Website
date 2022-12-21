@@ -1,0 +1,84 @@
+.logo{
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    font-size: 30px;
+}
+.nav-link{
+    font-weight: 570;
+    color: white!important;
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+}
+.nav-link:hover{
+    color: red!important;
+}
+.active{
+    color: red !important;
+}
+.footertext1{
+    color: white;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext1B{
+    color: white;
+    font-size: 17px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext1C{
+    color: #ADB5BD;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext2{
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext3{
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.reference{
+    color: white;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-decoration: none;
+}
+.reference:hover{
+    color: white!important;
+    transition: ease 0.3s;
+}
+.Creference{
+    color:white;
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    margin: 20px;
+}
+.Creference2{
+    color:rgb(0, 0, 0);
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    margin: 20px;
+}
+.Creferencecontent{
+    color:grey;
+    font-family: 'Merriweather', serif;
+    font-size: 15px;
+    margin: 20px;
+}
+.Creferencecontent2{
+    color:white;
+    font-family: 'Merriweather', serif;
+    font-size: 15px;
+    margin: 20px;
+}
+.Creferencecontent3{
+    color:rgb(0, 0, 0);
+    font-family: 'Merriweather', serif;
+    font-size: 15px;
+    margin: 20px;
+}

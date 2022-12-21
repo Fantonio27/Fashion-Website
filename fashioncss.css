@@ -1,0 +1,225 @@
+.fashionheaderbg{
+background-image: url(Imgs/fashion1.png);
+background-position: center;
+}
+.mentrendingbg1{
+    background-image: url(Imgs/mencasualtrend.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 62vh;
+}
+.mentrendingbg2{
+    background-image: url(imgs/streetwear3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 85vh;
+}
+.mentrendingbg3{
+    background-image: url(imgs/streetwear.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 85vh;
+}
+.womentrendingbg1{
+    background-image: url(imgs/womantrending.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh
+}
+.womantrendingbg2{
+    background-image: url(imgs/80swomen.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:85vh
+}
+.nav-link{
+    font-weight: 550;
+    color: white!important;
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+}
+.nav-link:hover{
+    color: red!important;
+}
+.active{
+    color: red !important;
+}
+.logo{
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    font-size: 30px;
+}
+.absolute-wrapper{
+    position: absolute;
+    width:100%;
+    top:70%;
+}
+.footertext1{
+    color: white;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext1B{
+    color: white;
+    font-size: 17px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext1C{
+    color: #ADB5BD;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext2{
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext3{
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.reference{
+    color: white;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-decoration: none;
+}
+.reference:hover{
+    color: rgb(255, 0, 0)!important;
+    transition: ease 0.3s;
+}
+
+/* TOP PART IS MORE ON NAV BAR AND LAYOUTING BOTTOM IS CONTENT PART*/
+.fashiontrendlabel{
+    margin-top: 280px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family: 'Libre Bodoni', serif;
+}
+.fashiontrendlabel2{
+    margin-bottom: 300px;
+    text-align: center;
+    color: white;
+    font-family: 'Merriweather', serif;
+}
+.margin1{
+    margin:70px;
+}
+.margin2{
+    margin: 80px;
+}
+.fashiontitle{
+    color:white;
+    margin-top: 50px;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    text-align: right;
+}
+.fashiondescription{
+    color:grey;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: right;
+}
+
+.fashionhighlightlabel{
+    font-family: 'Merriweather', serif;
+    color: white;
+    margin-top: 25px;
+    font-size: 30px;
+    text-align: right;
+}
+.fashionhighlight{
+    color: gray;
+    font-size: 25px;
+    font-family: 'Merriweather', serif;
+    text-align: right;
+}
+
+.streetwearlabel{
+    color:rgb(255, 255, 255);
+    font-family: 'Merriweather', serif;
+    font-size: 35px;
+    margin-top: 300px;
+    text-align: center;
+}
+.streetwearlabel2{
+    color:white;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+}
+.streetwearlabel3{
+    color: white;
+    margin-top: 50px;
+    font-size: 30px;
+}
+.streetweardescription{
+    color:grey;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.streetwearhighlight{
+    color: gray;
+    font-size: 25px;
+    font-family: 'Merriweather', serif;
+}
+.womantitle1{
+    color:white;
+    font-family: 'Merriweather', serif;
+    text-align: right;
+    font-size: 30px;
+}
+.womantrenddescription{
+    color:grey;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: right;
+}
+.womantitle2{
+    color: white;
+    font-family: 'Merriweather', serif;
+    margin-top: 20px;
+    font-size: 30px;
+    text-align: right;
+}
+.womanhighlights1{
+    color: gray;
+    font-size: 25px;
+    font-family: 'Merriweather', serif;
+    text-align: right;
+}
+.womantitle3{
+    color: white;
+    font-family: 'Merriweather', serif;
+    margin-top: 20px;
+    font-size: 30px;
+}
+.womantrenddescription2{
+    color:grey;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.womantitle4{
+    color: white;
+    font-family: 'Merriweather', serif;
+    margin-top: 20px;
+    font-size: 30px;
+}
+.womanhighlights2{
+    color: gray;
+    font-size: 25px;
+    font-family: 'Merriweather', serif;
+}
